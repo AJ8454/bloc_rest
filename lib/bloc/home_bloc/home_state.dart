@@ -20,6 +20,5 @@ class HomeLoadedState extends HomeState {
 
 class HomeNoInternetState extends HomeState {
   @override
-  // TODO: implement props
   List<Object?> get props => throw UnimplementedError();
 }

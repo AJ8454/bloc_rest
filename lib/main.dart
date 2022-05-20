@@ -1,6 +1,6 @@
-import 'package:bloc_rest/home/custom_nav_bar.dart';
 import 'package:bloc_rest/services/connectivity_services.dart';
 import 'package:bloc_rest/services/knowello_services.dart';
+import 'package:bloc_rest/widgets/custom_nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
